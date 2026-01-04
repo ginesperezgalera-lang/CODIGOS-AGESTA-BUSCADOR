@@ -1,12 +1,12 @@
 {
   "name": "Códigos Sagrados de Agesta",
   "short_name": "Códigos Agesta",
-  "description": "Buscador completo de Códigos Sagrados de Agesta con 1,100 códigos únicos para sanación, abundancia y protección espiritual",
-  "start_url": "index.html",
+  "description": "Buscador completo de 1,100+ Códigos Sagrados de Agesta para sanación, abundancia, protección y bienestar espiritual.",
+  "start_url": "/",
   "display": "standalone",
-  "background_color": "#7b2d8e",
+  "background_color": "#1a1a2e",
   "theme_color": "#7b2d8e",
-  "orientation": "portrait",
+  "orientation": "portrait-primary",
   "icons": [
     {
       "src": "icon-192.png",
